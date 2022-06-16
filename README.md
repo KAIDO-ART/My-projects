@@ -1,2 +1,3 @@
 # My-projects
-here are some of my frontend web design templates
+here is an e-commerce template project
+
